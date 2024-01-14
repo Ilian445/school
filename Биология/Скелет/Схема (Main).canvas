@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"b093cb594263fd62","type":"text","text":"Скелет","x":-80,"y":-200,"width":250,"height":60},
+		{"id":"9861a4044038a18e","type":"text","text":"Осевой","x":-395,"y":-60,"width":250,"height":60},
+		{"id":"cca34702bf151b4b","type":"text","text":"Скелет позвоночника","x":-205,"y":80,"width":250,"height":60},
+		{"id":"6356dca25c0162ef","type":"text","text":"Скелет черепа","x":-915,"y":80,"width":235,"height":60},
+		{"id":"ee127e6950872425","type":"file","file":"Биология/Скелет/Мозговой отдел.md","x":-795,"y":230,"width":355,"height":290},
+		{"id":"6731cddcbb50727d","type":"file","file":"Биология/Скелет/Лицевой отдел.md","x":-1240,"y":230,"width":400,"height":290},
+		{"id":"1d1f8c8e60abddc8","type":"text","text":"Добавочный","x":170,"y":-60,"width":250,"height":60},
+		{"id":"0b15bf6abb17a04a","x":230,"y":170,"width":250,"height":60,"type":"text","text":"Скелет верхней, нижней конечности"},
+		{"id":"7f314eac03471120","x":390,"y":80,"width":180,"height":60,"type":"text","text":"Пояс нижних конечностей"},
+		{"id":"aa040c820804e2de","x":115,"y":80,"width":180,"height":60,"type":"text","text":"Пояс верхних конечностей"}
+	],
+	"edges":[
+		{"id":"fe153dbb5f99eea9","fromNode":"b093cb594263fd62","fromSide":"bottom","toNode":"9861a4044038a18e","toSide":"top"},
+		{"id":"3d0ec337a4b9ffcd","fromNode":"b093cb594263fd62","fromSide":"bottom","toNode":"1d1f8c8e60abddc8","toSide":"top"},
+		{"id":"f0b95a76ef1f581a","fromNode":"9861a4044038a18e","fromSide":"bottom","toNode":"6356dca25c0162ef","toSide":"top"},
+		{"id":"2810c92726e64b02","fromNode":"9861a4044038a18e","fromSide":"bottom","toNode":"cca34702bf151b4b","toSide":"top"},
+		{"id":"b26d7466c3ea8a5b","fromNode":"6356dca25c0162ef","fromSide":"bottom","toNode":"ee127e6950872425","toSide":"top"},
+		{"id":"8216ef7966a8fe88","fromNode":"6356dca25c0162ef","fromSide":"bottom","toNode":"6731cddcbb50727d","toSide":"top"},
+		{"id":"fc5e24a943c6e6f7","fromNode":"1d1f8c8e60abddc8","fromSide":"bottom","toNode":"aa040c820804e2de","toSide":"top"},
+		{"id":"0b48daf1ba185a78","fromNode":"1d1f8c8e60abddc8","fromSide":"bottom","toNode":"7f314eac03471120","toSide":"top"},
+		{"id":"6ac785131a7bead3","fromNode":"1d1f8c8e60abddc8","fromSide":"bottom","toNode":"0b15bf6abb17a04a","toSide":"top"}
+	]
+}
