@@ -11,11 +11,14 @@
             "id": "898d379ae4435d78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Биология/Скелет/Скелет (Main).md",
-                "mode": "preview",
-                "source": false
+                "file": "Биология/Скелет/Схема.canvas",
+                "viewState": {
+                  "x": -635.2245424423487,
+                  "y": 388.79214071129434,
+                  "zoom": -0.4940872117783767
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Биология/Скелет/Скелет (Main).md",
+                "file": "Биология/Скелет/Схема.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Биология/Скелет/Скелет (Main).md",
+                "file": "Биология/Скелет/Схема.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Биология/Скелет/Скелет (Main).md"
+                "file": "Биология/Скелет/Схема.canvas"
               }
             }
           }
@@ -149,9 +152,10 @@
   },
   "active": "898d379ae4435d78",
   "lastOpenFiles": [
-    "Биология/Скелет/skelet.jpg",
-    "Биология/Скелет/Схема (Main).canvas",
+    "Биология/Скелет/cherep.jpg",
     "Биология/Скелет/Скелет (Main).md",
+    "Биология/Скелет/skelet.jpg",
+    "Биология/Скелет/Схема.canvas",
     "Биология/Скелет/Мозговой отдел.md",
     "Биология/Скелет/Лицевой отдел.md",
     "Биология/Скелет",
