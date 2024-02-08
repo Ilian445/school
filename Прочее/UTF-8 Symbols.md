@@ -1,1 +1,2 @@
 β - beta
+α - alpha
