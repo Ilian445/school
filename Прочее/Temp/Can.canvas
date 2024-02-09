@@ -1,6 +1,15 @@
 {
 	"nodes":[
-		{"id":"b42865ac2fad4be7","x":-120,"y":63,"width":140,"height":60,"type":"text","text":"Оксиды$H_{2}$"}
+		{"id":"e04fd3efafc7876e","x":-165,"y":444,"width":250,"height":196,"color":"5","type":"text","text":"##### Амфотерные\nСолеобразующие оксиды металлов с валентностями III и IV, а также $Zn^{II}O$, $Be^{II}O$"},
+		{"id":"63549b7b8e793bef","x":120,"y":444,"width":250,"height":196,"color":"5","type":"text","text":"##### Кислотные\nСолеобразующие оксиды неметаллов и оксиды металлов с валентностями V, VI, VII"},
+		{"id":"024951e7a8f1cca8","x":-440,"y":444,"width":250,"height":156,"color":"5","type":"text","text":"##### Основные\nСолеобразующие оксиды металлов с валентностями I или II"},
+		{"id":"4c9414701c818761","x":120,"y":249,"width":282,"height":102,"color":"5","type":"text","text":"##### Несолеобразующие\n$N_{2}O$ , $NO$, $CO$"},
+		{"id":"547218c3b293bbea","x":-139,"y":270,"width":198,"height":60,"color":"4","type":"text","text":"# Оксиды"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"020d07ce79cf92b3","fromNode":"547218c3b293bbea","fromSide":"bottom","toNode":"024951e7a8f1cca8","toSide":"top","color":"4"},
+		{"id":"869149cf9f082c6e","fromNode":"547218c3b293bbea","fromSide":"bottom","toNode":"e04fd3efafc7876e","toSide":"top","color":"4"},
+		{"id":"d6840aa19d280e8a","fromNode":"547218c3b293bbea","fromSide":"bottom","toNode":"63549b7b8e793bef","toSide":"top","color":"4"},
+		{"id":"5b962236dbc41603","fromNode":"547218c3b293bbea","fromSide":"right","toNode":"4c9414701c818761","toSide":"left","color":"4"}
+	]
 }
