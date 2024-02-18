@@ -6,12 +6,15 @@
 		{"id":"4c9414701c818761","type":"text","text":"##### Несолеобразующие\n$N_{2}O$ , $NO$, $CO$","x":120,"y":249,"width":282,"height":102,"color":"5"},
 		{"id":"547218c3b293bbea","type":"text","text":"# Оксиды","x":-139,"y":270,"width":198,"height":60,"color":"4"},
 		{"id":"586141c38e6dd44f","x":-37,"y":-285,"width":217,"height":105,"color":"2","type":"text","text":"### Виды причастий"},
-		{"id":"63fb07cea846ee21","x":-26,"y":-149,"width":250,"height":60,"type":"text","text":"##### Действительные\n- наст. время"}
+		{"id":"63fb07cea846ee21","x":100,"y":-140,"width":250,"height":260,"color":"1","type":"text","text":"##### Действительные\n- наст. время суффиксы -ущ-, -ющ-; -ащ-, -ящ-\n- прошед. время суффиксы -вш-, -ш-"},
+		{"id":"69432ffcac60ef36","type":"text","text":"##### Страдательные\n- Наст. в. \n\t- от глаголов I спряж. суфф. -ем-, -ом-\n\t- от гл. II спр. суфф. -им-","x":-191,"y":-140,"width":250,"height":260,"color":"1"}
 	],
 	"edges":[
 		{"id":"020d07ce79cf92b3","fromNode":"547218c3b293bbea","fromSide":"bottom","toNode":"024951e7a8f1cca8","toSide":"top","color":"4"},
 		{"id":"869149cf9f082c6e","fromNode":"547218c3b293bbea","fromSide":"bottom","toNode":"e04fd3efafc7876e","toSide":"top","color":"4"},
 		{"id":"d6840aa19d280e8a","fromNode":"547218c3b293bbea","fromSide":"bottom","toNode":"63549b7b8e793bef","toSide":"top","color":"4"},
-		{"id":"5b962236dbc41603","fromNode":"547218c3b293bbea","fromSide":"right","toNode":"4c9414701c818761","toSide":"left","color":"4"}
+		{"id":"5b962236dbc41603","fromNode":"547218c3b293bbea","fromSide":"right","toNode":"4c9414701c818761","toSide":"left","color":"4"},
+		{"id":"85b75ec2ffb96a37","fromNode":"586141c38e6dd44f","fromSide":"right","toNode":"63fb07cea846ee21","toSide":"top"},
+		{"id":"eb24410d1987822e","fromNode":"586141c38e6dd44f","fromSide":"left","toNode":"69432ffcac60ef36","toSide":"top"}
 	]
 }
