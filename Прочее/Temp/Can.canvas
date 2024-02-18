@@ -5,7 +5,8 @@
 		{"id":"024951e7a8f1cca8","type":"text","text":"##### Основные\nСолеобразующие оксиды металлов с валентностями I или II","x":-440,"y":444,"width":250,"height":156,"color":"5"},
 		{"id":"4c9414701c818761","type":"text","text":"##### Несолеобразующие\n$N_{2}O$ , $NO$, $CO$","x":120,"y":249,"width":282,"height":102,"color":"5"},
 		{"id":"547218c3b293bbea","type":"text","text":"# Оксиды","x":-139,"y":270,"width":198,"height":60,"color":"4"},
-		{"id":"586141c38e6dd44f","x":-37,"y":-285,"width":250,"height":60,"type":"text","text":"ВИды причасти"}
+		{"id":"586141c38e6dd44f","x":-37,"y":-285,"width":217,"height":105,"color":"2","type":"text","text":"### Виды причастий"},
+		{"id":"63fb07cea846ee21","x":-26,"y":-149,"width":250,"height":60,"type":"text","text":"##### Действительные\n- наст. время"}
 	],
 	"edges":[
 		{"id":"020d07ce79cf92b3","fromNode":"547218c3b293bbea","fromSide":"bottom","toNode":"024951e7a8f1cca8","toSide":"top","color":"4"},
